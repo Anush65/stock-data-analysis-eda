@@ -1,0 +1,401 @@
+Ticker,Company,Sector,Industry,MarketCap,Exchange,Country,Beta,DividendYield
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
+AAPL,Apple Inc.,Technology,Consumer Electronics,4034508095488,NMS,United States,1.107,0.38
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3594827857920,NMS,United States,1.07,0.75
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,3791094022144,NMS,United States,1.07,0.27
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2467515596800,NMS,United States,1.372,
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1495687364608,NMS,United States,1.878,
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1663775145984,NMS,United States,1.273,0.32
+NVDA,NVIDIA Corporation,Technology,Semiconductors,4540715761664,NMS,United States,2.284,0.02
+IBM,International Business Machines,Technology,Information Technology Services,276877901824,NYQ,United States,0.689,2.27
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,560001777664,NYQ,United States,1.659,1.03
+INTC,Intel Corporation,Technology,Semiconductors,176013000704,NMS,United States,1.344,
